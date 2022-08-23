@@ -1,0 +1,606 @@
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 7 4.8 3.045 180 N R6 CRCW080510K0FKEA ;0=1,1=0.0236
+PRP Case_Code_(Imperial) '0805'
+PRP Case_Code_(Metric) '2012'
+PRP Case/Package '0805'
+PRP Composition 'Thick Film'
+PRP Contact_Plating 'Tin'
+PRP Depth '1.25mm'
+PRP Height '0.45mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '2mm'
+PRP Max_Operating_Temperature '155°C'
+PRP Military_Standard 'Not'
+PRP Min_Operating_Temperature '-55°C'
+PRP Package_Quantity '5000'
+PRP Packaging 'Tape and Reel'
+PRP Power_Rating '125mW'
+PRP Radiation_Hardening 'No'
+PRP Resistance '10kR'
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Termination 'SMD/SMT'
+PRP Tolerance '1%'
+PRP Voltage_Rating '150V'
+PRP Voltage_Rating_(DC) '150V'
+PRP Weight '0.000194oz'
+PRP Width '1.25mm'
+TOP 0 4.8383858 3.045 180 N 7 1 R6-1
+TOP 1 4.7616142 3.045 180 N 3 1 R6-2
+#
+# CMP 1
+CMP 7 2.37 3.315 0 N R5 CRCW080510K0FKEA ;0=1,1=0.0236
+PRP Case_Code_(Imperial) '0805'
+PRP Case_Code_(Metric) '2012'
+PRP Case/Package '0805'
+PRP Composition 'Thick Film'
+PRP Contact_Plating 'Tin'
+PRP Depth '1.25mm'
+PRP Height '0.45mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '2mm'
+PRP Max_Operating_Temperature '155°C'
+PRP Military_Standard 'Not'
+PRP Min_Operating_Temperature '-55°C'
+PRP Package_Quantity '5000'
+PRP Packaging 'Tape and Reel'
+PRP Power_Rating '125mW'
+PRP Radiation_Hardening 'No'
+PRP Resistance '10kR'
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Termination 'SMD/SMT'
+PRP Tolerance '1%'
+PRP Voltage_Rating '150V'
+PRP Voltage_Rating_(DC) '150V'
+PRP Weight '0.000194oz'
+PRP Width '1.25mm'
+TOP 0 2.3316142 3.315 0 N 11 2 R5-1
+TOP 1 2.4083858 3.315 0 N 1 1 R5-2
+#
+# CMP 2
+CMP 7 4.1733858 3.045 0 N R4 CRCW080510K0FKEA ;0=1,1=0.0236
+PRP Case_Code_(Imperial) '0805'
+PRP Case_Code_(Metric) '2012'
+PRP Case/Package '0805'
+PRP Composition 'Thick Film'
+PRP Contact_Plating 'Tin'
+PRP Depth '1.25mm'
+PRP Height '0.45mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '2mm'
+PRP Max_Operating_Temperature '155°C'
+PRP Military_Standard 'Not'
+PRP Min_Operating_Temperature '-55°C'
+PRP Package_Quantity '5000'
+PRP Packaging 'Tape and Reel'
+PRP Power_Rating '125mW'
+PRP Radiation_Hardening 'No'
+PRP Resistance '10kR'
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Termination 'SMD/SMT'
+PRP Tolerance '1%'
+PRP Voltage_Rating '150V'
+PRP Voltage_Rating_(DC) '150V'
+PRP Weight '0.000194oz'
+PRP Width '1.25mm'
+TOP 0 4.135 3.045 0 N 7 3 R4-1
+TOP 1 4.2117716 3.045 0 N 8 6 R4-2
+#
+# CMP 3
+CMP 0 2.28 3.225 0 N VR1 3852A-282-103AL ;0=2,1=0.3750
+PRP Actuator_Diameter '0.250_(6.35mm)'
+PRP Actuator_Length '0.875_(22.23mm)'
+PRP Actuator_Type 'Slotted'
+PRP Associated_Product '36-8560-ND-KNOBINSTRUMW/DIALRND.9_DIA36-8555-ND-KNOBINSTRUMSKIRTEDRND.7_DIA36-8556-ND-KNOBINSTRUMSKIRTEDRND.9_DIA36-8565-ND-KNOBINSTRUMDBLBARRND.7_DIA36-8566-ND-KNOBINSTRUMDBLBARRND.9_DIA36-8568-ND-KNOBINSTRUMSGLBARRND.7_DIA36-8569-ND-KNOBINSTRUMSGLBARRND.9_DIA36-8559-ND-KNOBINSTRUMW/DIALRND.7_DIA226-1006-ND-KNOBBLKGLOSS.75_DIA.250_SHAFT226-1007-ND-KNOBBLKGLOSS.925_DIA.250_SHAFT226-1011-ND-KNOBBLKGLOS'
+PRP Built_in_Switch 'None'
+PRP Bushing_Thread '3/8-32'
+PRP Catalog_Drawings '3852SeriesSide13852SeriesSide2'
+PRP Category 'Potentiometers,VariableResistors'
+PRP Datasheet_URL 'https://datasheet.ciiva.com/11831/0900766b80f93b4b-11831016.pdf'
+PRP Datasheet_Version 'Sep-14'
+PRP Family 'RotaryPotentiometers,Rheostats'
+PRP Manufacturer 'Bourns'
+PRP Manufacturer_URL 'http://www.bourns.com/'
+PRP Mounting_Type 'PanelMount'
+PRP Number_of_Gangs '1'
+PRP Number_of_Turns '1'
+PRP Online_Catalog '3852and3856Series'
+PRP Other_Names '3852A282103AL'
+PRP Packaging 'Bulk'
+PRP PCN_Design/Specification 'PBTResinJun/2011'
+PRP PCN_Other 'MultipleChanges01/Dec/2012'
+PRP Power_(Watts) '2W'
+PRP Resistance_(Ohms) '10k'
+PRP Resistive_Material 'Cermet'
+PRP RoHS_Information '3852A-LMaterialDeclaration'
+PRP Rotation '280deg'
+PRP Series '3852'
+PRP Standard_Package '45'
+PRP Taper 'Linear'
+PRP Temperature_Coefficient '±150ppm/degC'
+PRP Termination_Style 'SolderLug'
+PRP Tolerance '±10%'
+TOP 0 2.03 3.225 0 N 0 0 VR1-1
+TOP 1 2.28 3.225 0 N 12 0 VR1-2
+TOP 2 2.53 3.225 0 N 1 0 VR1-3
+#
+# CMP 4
+CMP 3 3.62 3.39 0 N T1 749196121 ;0=1,1=0.2441
+PRP ComponentLink1Description 'Manufacturer URL'
+PRP ComponentLink1URL 'http://www.we-online.com'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'http://www.we-online.de/katalog/media/pdf/749196121.pdf'
+PRP Lbase '14.7ÂµH'
+PRP Manufacturer 'Wuerth Elektronik'
+PRP PackageReference 'ER11_5'
+PRP PartNumber '749196121'
+TOP 0 3.3847638 3.5868504 270 N 13 5 T1-1
+TOP 1 3.3847638 3.5081102 270 N 0 6 T1-2
+TOP 2 3.3847638 3.4293701 270 N 0 5 T1-3
+TOP 3 3.3847638 3.3506299 270 N 9 2 T1-4
+TOP 4 3.3847638 3.2718898 270 N 0 4 T1-5
+TOP 5 3.3847638 3.1931496 270 N 0 3 T1-6
+TOP 6 3.8552362 3.1931496 270 N 2 0 T1-7
+TOP 7 3.8552362 3.2718898 270 N 7 11 T1-8
+TOP 8 3.8552362 3.3506299 270 N 0 1 T1-9
+TOP 9 3.8552362 3.4293701 270 N 6 2 T1-10
+TOP 10 3.8552362 3.5081102 270 N 2 1 T1-11
+TOP 11 3.8552362 3.5868504 270 N 0 2 T1-12
+#
+# CMP 5
+CMP 10 3.14 3.2424016 90 N C10 GRM21BR60J226ME39L ;0=1,1=0.0236
+PRP Capacitance '22uF'
+PRP Case_Code_(Imperial) '0805'
+PRP Case_Code_(Metric) '2012'
+PRP Case/Package '0805'
+PRP Depth '1.25mm'
+PRP Dielectric 'X5R'
+PRP Height '1.25mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '2mm'
+PRP Material 'Ceramic'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'No SVHC'
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.053inch'
+PRP Tolerance '20%'
+PRP Voltage '6.3V'
+PRP Voltage_Rating '6.3V'
+PRP Voltage_Rating_(DC) '6.3V'
+PRP Width '0.049inch'
+TOP 0 3.14 3.2798032 90 N 13 4 C10-1
+TOP 1 3.14 3.205 90 N 11 10 C10-2
+#
+# CMP 6
+CMP 10 2.99 3.2325984 90 N C9 GRM21BR60J226ME39L ;0=1,1=0.0236
+PRP Capacitance '22uF'
+PRP Case_Code_(Imperial) '0805'
+PRP Case_Code_(Metric) '2012'
+PRP Case/Package '0805'
+PRP Depth '1.25mm'
+PRP Dielectric 'X5R'
+PRP Height '1.25mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '2mm'
+PRP Material 'Ceramic'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'No SVHC'
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.053inch'
+PRP Tolerance '20%'
+PRP Voltage '6.3V'
+PRP Voltage_Rating '6.3V'
+PRP Voltage_Rating_(DC) '6.3V'
+PRP Width '0.049inch'
+TOP 0 2.99 3.27 90 N 13 3 C9-1
+TOP 1 2.99 3.1951968 90 N 11 9 C9-2
+#
+# CMP 7
+CMP 2 4.7 3.48 0 N U2 TPS7A4533DCQR ;0=1,1=0.0709
+PRP Accuracy(_) '1'
+PRP ComponentLink1Description 'Manufacturer URL'
+PRP ComponentLink1URL 'http://www.ti.com/'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=TPS7A4533&fileType=pdf'
+PRP ComponentLink3Description 'Package Specification'
+PRP ComponentLink3URL 'http://www.ti.com/litv/pdf/mpds098c'
+PRP DatasheetVersion 'SLVS720D'
+PRP Eco-Plan 'Green (RoHS & no Sb/Br)'
+PRP Fixed_Output_Options(V) '3.3'
+PRP Iout(Max)(A) '1.5'
+PRP Iq(Typ)(mA) '1'
+PRP Manufacturer 'Texas Instruments'
+PRP Mounting_Technology 'Surface Mount'
+PRP PackageDescription '6-Pin Plastic Small Outline, Body 3.5 x 6.5 mm, Pitch 1.27 mm'
+PRP PackageReference 'DCQ0006A'
+PRP PackageVersion '4202109/D'
+PRP PartNumber 'TPS7A4533DCQR'
+PRP SubFamily 'Single Channel LDO'
+PRP Vdo(Typ)(mV) '300'
+PRP Vin(Max)(V) '20'
+PRP Vin(Min)(V) '2.1'
+PRP Vout_Adj(Max)(V) '3.3'
+PRP Vout_Adj(Min)(V) '3.3'
+TOP 0 4.5809055 3.58 270 N 7 8 U2-1
+TOP 1 4.5809055 3.53 270 N 8 0 U2-2
+TOP 2 4.5809055 3.48 270 N 7 9 U2-3
+TOP 3 4.5809055 3.43 270 N 3 2 U2-4
+TOP 4 4.5809055 3.38 270 N 3 3 U2-5
+TOP 5 4.8190945 3.48 270 N 7 10 U2-6
+#
+# CMP 8
+CMP 12 4.23 3.14 180 N P4 Header_2 ;0=2,1=0.0000
+PRP LatestRevisionDate '17-Jul-2002'
+PRP LatestRevisionNote 'Re-released for DXP Platform.'
+PRP Publisher 'Altium Limited'
+TOP 0 4.23 3.14 180 N 8 5 P4-1
+TOP 1 4.13 3.14 180 N 7 5 P4-2
+#
+# CMP 9
+CMP 5 4.795 3.14 0 N C8 C0805C106K8PACTU ;0=1,1=0.0000
+PRP 3DS_Part_Number '220-00001'
+PRP Automotive 'No'
+PRP Capacitance '10uF'
+PRP Category 'Cap'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf'
+PRP Device_Class_L1 'Passive Components'
+PRP Device_Class_L2 'Capacitors'
+PRP Device_Class_L3 'Ceramic Capacitors'
+PRP Digikey_Description 'CAP CER 10UF 10V X5R 0805'
+PRP Height '1.4mm'
+PRP Ipc_Land_Pattern_Name 'CAPC200125X125'
+PRP Lead_Free 'Yes'
+PRP Manufacturer 'Kemet'
+PRP Manufacturer_Part_Number 'C0805C106K8PACTU'
+PRP Material 'Ceramic'
+PRP Mouser_Description 'CAP CER 10UF 10V X5R 0805'
+PRP Octopart 'https://octopart.com/c0805c106k8pactu-kemet-98697'
+PRP Package 'C0805C-DG'
+PRP RoHS 'TRUE'
+PRP Temperature '-55°C to +85°C'
+PRP Temperature_Characteristic 'X5R'
+PRP Temperature_Coefficient '15%'
+PRP Temperature_Range_High '+85°C'
+PRP Temperature_Range_Low '-55°C'
+PRP Tolerance '10%'
+PRP Value '10uF'
+PRP Voltage '10V'
+PRP Voltage_Rating '10V'
+TOP 0 4.7654724 3.14 0 N 3 0 C8-1
+TOP 1 4.8245276 3.14 0 N 7 7 C8-2
+#
+# CMP 10
+CMP 5 4.43 3.54 270 N C7 C0805C106K8PACTU ;0=1,1=0.0000
+PRP 3DS_Part_Number '220-00001'
+PRP Automotive 'No'
+PRP Capacitance '10uF'
+PRP Category 'Cap'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf'
+PRP Device_Class_L1 'Passive Components'
+PRP Device_Class_L2 'Capacitors'
+PRP Device_Class_L3 'Ceramic Capacitors'
+PRP Digikey_Description 'CAP CER 10UF 10V X5R 0805'
+PRP Height '1.4mm'
+PRP Ipc_Land_Pattern_Name 'CAPC200125X125'
+PRP Lead_Free 'Yes'
+PRP Manufacturer 'Kemet'
+PRP Manufacturer_Part_Number 'C0805C106K8PACTU'
+PRP Material 'Ceramic'
+PRP Mouser_Description 'CAP CER 10UF 10V X5R 0805'
+PRP Octopart 'https://octopart.com/c0805c106k8pactu-kemet-98697'
+PRP Package 'C0805C-DG'
+PRP RoHS 'TRUE'
+PRP Temperature '-55°C to +85°C'
+PRP Temperature_Characteristic 'X5R'
+PRP Temperature_Coefficient '15%'
+PRP Temperature_Range_High '+85°C'
+PRP Temperature_Range_Low '-55°C'
+PRP Tolerance '10%'
+PRP Value '10uF'
+PRP Voltage '10V'
+PRP Voltage_Rating '10V'
+TOP 0 4.43 3.5104724 270 N 8 1 C7-1
+TOP 1 4.43 3.5695276 270 N 7 6 C7-2
+#
+# CMP 11
+CMP 8 2.69 3.43 0 N U1 TPS54308DDCT ;0=1,1=0.0000
+PRP Case/Package 'SOT-23-6'
+PRP Max_Input_Voltage '28V'
+PRP Max_Operating_Temperature '125°C'
+PRP Max_Output_Voltage '26V'
+PRP Min_Input_Voltage '4.5V'
+PRP Min_Operating_Temperature '-40°C'
+PRP Min_Output_Voltage '1V'
+PRP Mount 'Surface Mount'
+PRP Number_of_Outputs '1'
+PRP Output_Configuration 'Positive'
+PRP Output_Current '3A'
+PRP Output_Type 'Adjustable'
+PRP Packaging 'Tape and Reel'
+PRP RoHS_Compliant 'Yes'
+PRP Switching_Frequency '350kHz'
+PRP Synchronous_Rectifier 'Yes'
+TOP 0 2.6447129 3.4674016 0 N 11 8 U1-1
+TOP 1 2.6447129 3.43 0 N 9 1 U1-2
+TOP 2 2.6447129 3.3925984 0 N 4 4 U1-3
+TOP 3 2.7352871 3.3925984 0 N 12 4 U1-4
+TOP 4 2.7352871 3.43 0 N 4 3 U1-5
+TOP 5 2.7352871 3.4674016 0 N 10 1 U1-6
+#
+# CMP 12
+CMP 6 3.06 3.465 90 N R3 CRCW060322K0FKEAHP ;0=1,1=0.0000
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP Case/Package '0603'
+PRP Composition 'Thick Film'
+PRP Contact_Plating 'Tin'
+PRP Depth '0.85mm'
+PRP Features 'Automotive AEC-Q200'
+PRP Height '0.022inch'
+PRP Lead_Free 'Lead Free'
+PRP Length '1.6mm'
+PRP Max_Operating_Temperature '155°C'
+PRP Max_Power_Dissipation '250mW'
+PRP Military_Standard 'Not'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Terminations '2'
+PRP Package_Quantity '5000'
+PRP Packaging 'Tape and Reel'
+PRP Power_Rating '250mW'
+PRP Radiation_Hardening 'No'
+PRP Resistance '22kR'
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Termination 'SMD/SMT'
+PRP Tolerance '1%'
+PRP Voltage_Rating '75V'
+PRP Voltage_Rating_(DC) '75V'
+PRP Width '0.033inch'
+TOP 0 3.06 3.4936218 90 N 11 7 R3-1
+TOP 1 3.06 3.4363782 90 N 12 3 R3-2
+#
+# CMP 13
+CMP 9 3.06 3.2951791 90 N R2 ERJ-2RKF1003X ;0=1,1=0.0000
+PRP Case_Code_(Imperial) '0402'
+PRP Case_Code_(Metric) '1005'
+PRP Case/Package '0402'
+PRP Composition 'Thick Film'
+PRP Contact_Plating 'Tin'
+PRP Depth '0.5mm'
+PRP Features 'Automotive AEC-Q200'
+PRP Height '0.35mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '1mm'
+PRP Max_Operating_Temperature '155°C'
+PRP Max_Power_Dissipation '100mW'
+PRP Military_Standard 'Not'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Pins '2'
+PRP Number_of_Terminations '2'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Power_Rating '100mW'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'No SVHC'
+PRP Resistance '100kR'
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Termination 'SMD/SMT'
+PRP Tolerance '1%'
+PRP Voltage_Rating '50V'
+PRP Voltage_Rating_(DC) '50V'
+PRP Width '0.5mm'
+TOP 0 3.06 3.3153582 90 N 12 2 R2-1
+TOP 1 3.06 3.275 90 N 13 2 R2-2
+#
+# CMP 14
+CMP 13 4.3125985 3.41 0 N R1 ERA6AEB101V ;0=1,1=0.0236
+PRP Manufacturer 'Panasonic'
+PRP Part_Number 'ERA6AEB101V'
+PRP r '100'
+TOP 0 4.2751969 3.41 270 N 5 1 R1-1
+TOP 1 4.35 3.41 270 N 8 2 R1-2
+#
+# CMP 15
+CMP 12 2.19 3.35 270 N P3 Header_2 ;0=2,1=0.0000
+PRP LatestRevisionDate '17-Jul-2002'
+PRP LatestRevisionNote 'Re-released for DXP Platform.'
+PRP Publisher 'Altium Limited'
+TOP 0 2.19 3.35 270 N 4 0 P3-1
+TOP 1 2.19 3.45 270 N 11 4 P3-2
+#
+# CMP 16
+CMP 12 2.79 3.16 0 N P2 Header_2 ;0=2,1=0.0000
+PRP LatestRevisionDate '17-Jul-2002'
+PRP LatestRevisionNote 'Re-released for DXP Platform.'
+PRP Publisher 'Altium Limited'
+TOP 0 2.79 3.16 0 N 13 0 P2-1
+TOP 1 2.89 3.16 0 N 11 3 P2-2
+#
+# CMP 17
+CMP 12 4.57 3.14 180 N P1 Header_2 ;0=2,1=0.0000
+PRP LatestRevisionDate '17-Jul-2002'
+PRP LatestRevisionNote 'Re-released for DXP Platform.'
+PRP Publisher 'Altium Limited'
+TOP 0 4.57 3.14 180 N 3 4 P1-1
+TOP 1 4.47 3.14 180 N 7 4 P1-2
+#
+# CMP 18
+CMP 11 4.1669437 3.56 180 N D1 1N5711W-7-F ;0=1,1=0.0000
+PRP Capacitance '2pF'
+PRP Contact_Plating 'Tin'
+PRP Current_Rating '15mA'
+PRP Element_Configuration 'Single'
+PRP Forward_Current '15mA'
+PRP Forward_Voltage '1V'
+PRP Height '1.25mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '2.85mm'
+PRP Max_Current_Rating '15mA'
+PRP Max_Forward_Surge_Current_(Ifsm) '1mA'
+PRP Max_Operating_Temperature '125°C'
+PRP Max_Power_Dissipation '333mW'
+PRP Max_Repetitive_Reverse_Voltage_(Vrrm) '70V'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Pins '2'
+PRP Output_Current '15mA'
+PRP Package_Quantity '3000'
+PRP Packaging 'Tape and Reel'
+PRP Peak_Reverse_Current '200nA'
+PRP Polarity 'Standard'
+PRP Power_Dissipation '333mW'
+PRP Power_Rating '333mW'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'No SVHC'
+PRP Reverse_Recovery_Time '1ns'
+PRP Termination 'SMD/SMT'
+PRP Voltage_Rating_(DC) '70V'
+PRP Weight '0.000353oz'
+PRP Width '1.7mm'
+TOP 0 4.2338873 3.56 180 N 8 3 D1-1
+TOP 1 4.1 3.56 180 N 6 1 D1-2
+#
+# CMP 19
+CMP 1 2.765 3.27 0 N C6 GRM1885C1H101JA01D ;0=1,1=0.0354
+PRP c '100p'
+PRP Manufacturer 'Murata'
+PRP Part_Number 'GRM1885C1H101JA01D'
+TOP 0 2.7384252 3.27 270 N 12 1 C6-1
+TOP 1 2.7915748 3.27 270 N 13 1 C6-2
+#
+# CMP 20
+CMP 1 4.125 3.41 0 N C5 GRM1885C1H101JA01D ;0=1,1=0.0354
+PRP c '100p'
+PRP Manufacturer 'Murata'
+PRP Part_Number 'GRM1885C1H101JA01D'
+TOP 0 4.0984252 3.41 270 N 6 0 C5-1
+TOP 1 4.1515748 3.41 270 N 5 0 C5-2
+#
+# CMP 21
+CMP 5 4.1595276 3.3 180 N C4 C0805C106K8PACTU ;0=1,1=0.0000
+PRP 3DS_Part_Number '220-00001'
+PRP Automotive 'No'
+PRP Capacitance '10uF'
+PRP Category 'Cap'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf'
+PRP Device_Class_L1 'Passive Components'
+PRP Device_Class_L2 'Capacitors'
+PRP Device_Class_L3 'Ceramic Capacitors'
+PRP Digikey_Description 'CAP CER 10UF 10V X5R 0805'
+PRP Height '1.4mm'
+PRP Ipc_Land_Pattern_Name 'CAPC200125X125'
+PRP Lead_Free 'Yes'
+PRP Manufacturer 'Kemet'
+PRP Manufacturer_Part_Number 'C0805C106K8PACTU'
+PRP Material 'Ceramic'
+PRP Mouser_Description 'CAP CER 10UF 10V X5R 0805'
+PRP Octopart 'https://octopart.com/c0805c106k8pactu-kemet-98697'
+PRP Package 'C0805C-DG'
+PRP RoHS 'TRUE'
+PRP Temperature '-55°C to +85°C'
+PRP Temperature_Characteristic 'X5R'
+PRP Temperature_Coefficient '15%'
+PRP Temperature_Range_High '+85°C'
+PRP Temperature_Range_Low '-55°C'
+PRP Tolerance '10%'
+PRP Value '10uF'
+PRP Voltage '10V'
+PRP Voltage_Rating '10V'
+TOP 0 4.1890552 3.3 180 N 8 4 C4-1
+TOP 1 4.13 3.3 180 N 7 2 C4-2
+#
+# CMP 22
+CMP 4 2.445 3.45 270 N C3 C0603C104K5RECAUTO ;0=1,1=0.0000
+PRP Capacitance '100nF'
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP Case/Package '0603'
+PRP Interface 'SPI'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_A/D_Converters '1'
+PRP Number_of_Bits '16'
+PRP Packaging 'Tape and Reel'
+PRP Ratings 'AEC-Q200'
+PRP RoHS_Compliant 'Yes'
+PRP Sampling_Rate '4000S/s'
+PRP Tolerance '10%'
+PRP Voltage_Rating '50V'
+TOP 0 2.445 3.426378 270 N 4 2 C3-1
+TOP 1 2.445 3.473622 270 N 11 6 C3-2
+#
+# CMP 23
+CMP 5 2.33 3.445 270 N C2 C0805C106K8PACTU ;0=1,1=0.0000
+PRP 3DS_Part_Number '220-00001'
+PRP Automotive 'No'
+PRP Capacitance '10uF'
+PRP Category 'Cap'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf'
+PRP Device_Class_L1 'Passive Components'
+PRP Device_Class_L2 'Capacitors'
+PRP Device_Class_L3 'Ceramic Capacitors'
+PRP Digikey_Description 'CAP CER 10UF 10V X5R 0805'
+PRP Height '1.4mm'
+PRP Ipc_Land_Pattern_Name 'CAPC200125X125'
+PRP Lead_Free 'Yes'
+PRP Manufacturer 'Kemet'
+PRP Manufacturer_Part_Number 'C0805C106K8PACTU'
+PRP Material 'Ceramic'
+PRP Mouser_Description 'CAP CER 10UF 10V X5R 0805'
+PRP Octopart 'https://octopart.com/c0805c106k8pactu-kemet-98697'
+PRP Package 'C0805C-DG'
+PRP RoHS 'TRUE'
+PRP Temperature '-55°C to +85°C'
+PRP Temperature_Characteristic 'X5R'
+PRP Temperature_Coefficient '15%'
+PRP Temperature_Range_High '+85°C'
+PRP Temperature_Range_Low '-55°C'
+PRP Tolerance '10%'
+PRP Value '10uF'
+PRP Voltage '10V'
+PRP Voltage_Rating '10V'
+TOP 0 2.33 3.4154724 270 N 4 1 C2-1
+TOP 1 2.33 3.4745276 270 N 11 5 C2-2
+#
+# CMP 24
+CMP 4 2.87 3.508622 270 N C1 C0603C104K5RECAUTO ;0=1,1=0.0000
+PRP Capacitance '100nF'
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP Case/Package '0603'
+PRP Interface 'SPI'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_A/D_Converters '1'
+PRP Number_of_Bits '16'
+PRP Packaging 'Tape and Reel'
+PRP Ratings 'AEC-Q200'
+PRP RoHS_Compliant 'Yes'
+PRP Sampling_Rate '4000S/s'
+PRP Tolerance '10%'
+PRP Voltage_Rating '50V'
+TOP 0 2.87 3.485 270 N 10 0 C1-1
+TOP 1 2.87 3.532244 270 N 9 0 C1-2
+#

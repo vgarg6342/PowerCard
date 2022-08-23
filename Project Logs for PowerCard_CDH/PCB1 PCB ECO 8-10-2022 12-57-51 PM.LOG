@@ -1,0 +1,167 @@
+Removed Pin From Net: NetName=3V3 Pin=T1-1
+Removed Pin From Net: NetName=NetC1_2 Pin=T1-3
+Removed Pin From Net: NetName=GND_ISO Pin=T1-4
+Removed Pin From Net: NetName=NetC5_1 Pin=T1-6
+Removed Member From Class: ClassName=Sheet1 Member=T1
+Change Component Comment : Designator=D1 Old Comment=1N5819HW-7-F New Comment=1N5711W-7-F
+Change Managed Component Library Link : Designator=D1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=E1E48E8A-31C5-4BAC-8B58-89186359133C New ItemGUID=EA90BB2B-8C59-4840-B82C-7D71CA60F23B Old RevisionGUID=5FF77929-B791-4119-B39D-2AD3380BBA0B New RevisionGUID=364860BD-3D21-49AA-89F2-5D70DD2F765B
+Change component parameters: Designator = "D1" ("D1"); Footprint = "FP-SOD123-IPC_A"; UniqueID = "\OAOJIIKH" ("\OAOJIIKH")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "2pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "15mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Element Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward Current"; Value = "15mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward Voltage"; Value = "1V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "2.85mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = "15mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Forward Surge Current (Ifsm)"; Value = "1mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "333mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Repetitive Reverse Voltage (Vrrm)"; Value = "70V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Current"; Value = "15mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Peak Reverse Current"; Value = "200nA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Dissipation"; Value = "333mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "333mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse Recovery Time"; Value = "1ns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "70V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "0.000353oz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "1.7mm"; VariantName = "[No Variations]"
+Added Component: Designator=C9(FP-GRM21B-0_15-MFG)
+Add component (AddParameter): Name = "Capacitance"; Value = "22uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "0.053inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "6.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "6.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Added Component: Designator=C10(FP-GRM21B-0_15-MFG)
+Add component (AddParameter): Name = "Capacitance"; Value = "22uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "0.053inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "6.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "6.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Added Component: Designator=T?(ER11_5)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.we-online.de/katalog/media/pdf/749196121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lbase"; Value = "14.7ÂµH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wuerth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "ER11_5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "749196121"; VariantName = "[No Variations]"
+Added Component: Designator=VR?(BOUR-3852A-282-103AL-3_V)
+Add component (AddParameter): Name = "Actuator Diameter"; Value = "0.250"(6.35mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Length"; Value = "0.875"(22.23mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Type"; Value = "Slotted"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Associated Product"; Value = "36-8560-ND
+-KNOBINSTRUMW/DIALRND.9"DIA
+36-8555-ND
+-KNOBINSTRUMSKIRTEDRND.7"DIA
+36-8556-ND
+-KNOBINSTRUMSKIRTEDRND.9"DIA
+36-8565-ND
+-KNOBINSTRUMDBLBARRND.7"DIA
+36-8566-ND
+-KNOBINSTRUMDBLBARRND.9"DIA
+36-8568-ND
+-KNOBINSTRUMSGLBARRND.7"DIA
+36-8569-ND
+-KNOBINSTRUMSGLBARRND.9"DIA
+36-8559-ND
+-KNOBINSTRUMW/DIALRND.7"DIA
+226-1006-ND
+-KNOBBLKGLOSS.75"DIA.250"SHAFT
+226-1007-ND
+-KNOBBLKGLOSS.925"DIA.250"SHAFT
+226-1011-ND
+-KNOBBLKGLOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Built in Switch"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bushing Thread"; Value = "3/8-32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Catalog Drawings"; Value = "3852SeriesSide1
+
+3852SeriesSide2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Potentiometers,VariableResistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/11831/0900766b80f93b4b-11831016.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Sep-14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "RotaryPotentiometers,Rheostats"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.bourns.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "PanelMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Gangs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Turns"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "3852and3856Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "3852A282103AL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCN Design/Specification"; Value = "PBTResinJun/2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCN Other"; Value = "MultipleChanges01/Dec/2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance (Ohms)"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistive Material"; Value = "Cermet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Information"; Value = "3852A-LMaterialDeclaration"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rotation"; Value = "280deg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "3852"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "45"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Taper"; Value = "Linear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±150ppm/degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "SolderLug"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=3V3 Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=3V3 Pin=T?-1
+Added Pin To Net: NetName=NetC1_2 Pin=T?-4
+Added Pin To Net: NetName=GND_ISO Pin=T?-8
+Added Pin To Net: NetName=NetC5_1 Pin=T?-10
+Added Pin To Net: NetName=FB Pin=VR?-2
+Added Member To Class: ClassName=Sheet1 Member=Component C9 GRM21BR60J226ME39L
+Added Member To Class: ClassName=Sheet1 Member=Component C10 GRM21BR60J226ME39L
+Added Member To Class: ClassName=Sheet1 Member=Component T? 749196121
+Added Member To Class: ClassName=Sheet1 Member=Component VR? 3852A-282-103AL

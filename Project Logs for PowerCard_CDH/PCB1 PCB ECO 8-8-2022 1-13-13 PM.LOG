@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=R1 Old Footprint=RESC1005X40X25LL05T05 New Footprint=RESC2013X60X40ML20T25
+Change Component Comment : Designator=R1 Old Comment=ERJ-2RKF1000X New Comment=ERA6AEB101V
+Change Managed Component Library Link : Designator=R1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=52BF2754-DAE0-4791-BFF2-3133F275D8F8 New ItemGUID=3D5842CA-7285-4CC4-866B-83A23EBDD0B0 Old RevisionGUID=9E729D99-CAC1-4F47-B38F-077F9568C433 New RevisionGUID=F96220CF-75EE-482A-A701-623DBEE3D86E
+Change component parameters: Designator = "R1" ("R1"); Footprint = "RESC1005X40X25LL05T05"; UniqueID = "\DCBDPLVM" ("\DCBDPLVM")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERA6AEB101V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "R"; Value = "100"; VariantName = "[No Variations]"
+Added Room: Name=Sheet1

@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 5:22:40 PM On 8/17/2022
+
+Output: Test Point Report
+Type  : Test Points
+From  : PCB Document [PCB1.PcbDoc]
+   Generated File[Fabrication Testpoint Report for PCB1.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 5:22:40 PM On 8/17/2022

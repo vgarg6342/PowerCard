@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetC5_1 Pin=TP1-1
+Removed Pin From Net: NetName=GND Pin=TP2-1
+Removed Pin From Net: NetName=GND_ISO Pin=TP3-1
+Removed Pin From Net: NetName=FB Pin=TP4-1
+Removed Member From Class: ClassName=Sheet1 Member=TP1
+Removed Member From Class: ClassName=Sheet1 Member=TP2
+Removed Member From Class: ClassName=Sheet1 Member=TP3
+Removed Member From Class: ClassName=Sheet1 Member=TP4
+Added Member To Class: ClassName=Sheet1 Member=Component VR1 3852A-282-103AL
